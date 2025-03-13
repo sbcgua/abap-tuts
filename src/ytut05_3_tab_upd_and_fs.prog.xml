@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>YTUT06_2</NAME>
+    <NAME>YTUT05_3_TAB_UPD_AND_FS</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,7 +12,7 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>ABAP Tutorial: Tables, operations</ENTRY>
+     <ENTRY>ABAP Tutorial: Tables, updates</ENTRY>
      <LENGTH>33</LENGTH>
     </item>
    </TPOOL>

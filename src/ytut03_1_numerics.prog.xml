@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>YTUT01</NAME>
+    <NAME>YTUT03_1_NUMERICS</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,7 +12,7 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>ABAP Tutorial: The simplest program</ENTRY>
+     <ENTRY>ABAP Tutorial: Numeric types</ENTRY>
      <LENGTH>37</LENGTH>
     </item>
    </TPOOL>

@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>YTUT05</NAME>
+    <NAME>YTUT05_3_TAB_INSDEL</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,8 +12,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>ABAP Tutorial: Structures</ENTRY>
-     <LENGTH>25</LENGTH>
+     <ENTRY>ABAP Tutorial: Tables, operations</ENTRY>
+     <LENGTH>33</LENGTH>
     </item>
    </TPOOL>
   </asx:values>

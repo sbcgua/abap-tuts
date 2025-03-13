@@ -1,4 +1,4 @@
-report ytut04.
+report ytut03_2_dates.
 
 data date type d.
 data char type c length 8.

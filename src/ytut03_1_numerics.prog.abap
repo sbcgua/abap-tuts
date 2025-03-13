@@ -1,4 +1,4 @@
-report ytut03.
+report ytut03_1_numerics.
 
 data integer type i.
 data float type f.

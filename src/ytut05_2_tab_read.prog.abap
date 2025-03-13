@@ -1,4 +1,4 @@
-report ytut06_1.
+report ytut05_2_tab_read.
 
 types:
   begin of ty_sales_report,

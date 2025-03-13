@@ -1,4 +1,4 @@
-report ytut05.
+report ytut04_structures.
 
 " INVOICE DOCUMENT
 " HEADER (1)

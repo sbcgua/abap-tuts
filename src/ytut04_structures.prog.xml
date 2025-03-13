@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>YTUT03</NAME>
+    <NAME>YTUT04_STRUCTURES</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,8 +12,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>ABAP Tutorial: Numeric types</ENTRY>
-     <LENGTH>37</LENGTH>
+     <ENTRY>ABAP Tutorial: Structures</ENTRY>
+     <LENGTH>25</LENGTH>
     </item>
    </TPOOL>
   </asx:values>

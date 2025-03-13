@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>YTUT06_3</NAME>
+    <NAME>YTUT01_NEW_PROG</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,8 +12,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>ABAP Tutorial: Tables, updates</ENTRY>
-     <LENGTH>33</LENGTH>
+     <ENTRY>ABAP Tutorial: The simplest program</ENTRY>
+     <LENGTH>37</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
