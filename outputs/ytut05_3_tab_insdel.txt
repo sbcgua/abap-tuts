@@ -1,0 +1,17 @@
+Invoice list
+27.02.25 INV01
+10.03.25 INV03
+28.02.25 INV02
+
+Invoice #3: 28.02.25 INV02
+
+Deleted by index
+10.03.25 INV03
+28.02.25 INV02
+
+Deleted by condition
+10.03.25 INV03
+
+Deleting duplicates
+28.02.25 INV02
+10.03.25 INV03

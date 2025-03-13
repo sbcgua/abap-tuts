@@ -1,0 +1,6 @@
+Invoice1: 28022025 Customer2       INV02/2       30 000,00
+Invoice2: 28022025 Customer1       INV02/1       10 000,00
+Invoice3: 28022025 Customer1       INV02/1       10 000,00
+Invoice on 20250201 NOT found
+Loop Invoice 28022025 INV02/1
+Loop Invoice 28022025 INV02/2

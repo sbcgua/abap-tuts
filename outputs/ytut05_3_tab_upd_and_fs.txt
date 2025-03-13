@@ -1,0 +1,9 @@
+Invoice list
+27.02.25 INV01
+28.02.25 MODIFIED+
+10.03.25 INV03
+
+Invoice list after modification
+27.02.25 INV01+
+28.02.25 MODIFIED++
+10.03.25 INV03+
