@@ -1,0 +1,13 @@
+Numbered invoice list
+         1  27.02.25 PAID INV01
+         2  28.02.25 INV02
+         3  10.03.25 INV03
+         4  13.03.25 INV04
+
+Unpaid invoice list
+         1  28.02.25 INV02
+         2  10.03.25 INV03
+         3  13.03.25 INV04
+
+Unpaid invoice list (COMPLEX CASE)
+         1  28.02.25 INV02
