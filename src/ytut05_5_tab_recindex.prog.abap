@@ -1,4 +1,4 @@
-report ytut05_4_tab_recindex.
+report ytut05_5_tab_recindex.
 
 types:
   begin of ty_sales_report,
