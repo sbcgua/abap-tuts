@@ -1,0 +1,9 @@
+Count to 3 with DO
+         1
+         2
+         3
+
+Count to 3 with WHILE
+         1
+         2
+         3

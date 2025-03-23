@@ -10,3 +10,5 @@
 - YTUT05_3_TAB_INSDEL - Tables, inserting and deleting records
 - YTUT05_5_TAB_UPD_AND_FS - Tables, updating data inside tables, intro to field symbols
 - YTUT05_5_TAB_RECINDEX - Tables, record index, append initial, reading table of values
+- YTUT07_1_EXIT_CONTINUE - Exit and Continue operators
+- YTUT07_2_DO_WHILE - More loops: Do and While

@@ -1,0 +1,12 @@
+Every second invoice
+         2  INV02          5 000,00
+         4  INV04            900,00
+
+All invoices > 4000
+         2  INV02          5 000,00
+         3  INV03          9 000,00
+
+List invoices not to exceed 7000 total
+         1  INV01          1 234,00
+         2  INV02          5 000,00
+            Total:         6 234,00
